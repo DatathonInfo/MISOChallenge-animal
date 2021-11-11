@@ -68,14 +68,14 @@ MISO AI Challenge 2021은 '인공지능 학습용 데이터 구축 사업'을 �
         <td align=center>
       <strong>참가 신청</strong><br>
     </td>
-    <td style="text-align:center"> 2021년 10월 07일 ~ 11월 8일</td>
+    <td style="text-align:center"> 2021년 10월 07일 ~ 11월 11일</td>
     <td> 온라인(https://misochallenge.com) </td>
   </tr>
     <tr>
         <td align=center>
       <strong>서류심사</strong><br>
     </td>
-    <td style="text-align:center">2021년 11월 10일</td>
+    <td style="text-align:center">2021년 11월 15일</td>
         <td align=center> 합격팀 개별 통보
     </td>
    </tr>
