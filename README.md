@@ -36,7 +36,7 @@
     <th style="text-align:left;width:50%">시상</th>
     <th style="text-align:center;width:15%">상금</th>
         <th style="text-align:left;width:35%">비고</th>
-  </tr>
+  </tr> 
   <tr>
     <td>
       <strong>대상</strong><br>
@@ -65,7 +65,7 @@
 ## 데이터톤 일정
 <table class="tbl_schedule">
   <tr>
-    <th style="text-align:left;width:50%">행사내용</th>
+    <th style="text-align:left;width:50%">행사 내용</th>
     <th style="text-align:center;width:15%">일정</th>
         <th style="text-align:left;width:35%">장소/방식</th>
   </tr>
@@ -78,7 +78,7 @@
   </tr>
     <tr>
         <td align=center>
-      <strong>서면평가</strong><br>
+      <strong>서면 평가</strong><br>
     </td>
     <td style="text-align:center">2021년 11월 15일</td>
         <td align=center> 서면 평가 및 합격팀 개별 통보
@@ -86,7 +86,7 @@
    </tr>
      <tr>
     <td align=center>
-      <strong>본선대회</strong><br>
+      <strong>본선 대회</strong><br>
     </td>
     <td style="text-align:center">2021년 11월 16일 ~ 11월 23일</td>
  <td align=center> AI 모델 개발 (온라인 - NCLOUD)
@@ -94,7 +94,7 @@
    </tr>
     <tr>
     <td align=center>
-      <strong>결과제출</strong><br>
+      <strong>결과 제출</strong><br>
     </td>
     <td style="text-align:center">2021년 11월 24일 18:00까지</td>
  <td align=center> 이메일 제출 (pet@misoinfo.co.kr)
