@@ -14,7 +14,7 @@
  * 평가지표
    * 평가기준 
    * Accuracy 점수 : 제공하지 않은 별도 검증 데이터를 이용한 모델의 Accuracy
-      ![image](https://user-images.githubusercontent.com/92664643/141734397-0dbdeac1-1e33-4c8c-a86f-4a31102a6526.png)
+      ![image](https://user-images.githubusercontent.com/92664643/141734783-47385d59-521f-4edb-bec3-37b3eb21867d.png)
  * 제출 파일
    * keras_test.py : 모델 등 변경사항에 따른 있더라도 Base line code름 참조하여 수정된 파일, Test Data를 활용하여 검증 필요 기타 소스코드 
    * accuracy.csv : Accuracy 출력 값
