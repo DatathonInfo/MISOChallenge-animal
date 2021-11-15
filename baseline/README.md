@@ -7,4 +7,5 @@
  * 피부 학습 데이터셋 : [/mnt/hackerton/dataset/Skin/]
     * 해당 데이터셋으로 구분되어 있으며, 이후 DataSplit 된 Folder 구조는 동일합니다.
  * 학습모델 저장 경로 : [~/model_saved/]
+ 
  이미지 파일은 포컬 디스크를 복사하지 않고 NAS 내 학습데이터 이미지 사용합니다.
