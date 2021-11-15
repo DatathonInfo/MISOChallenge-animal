@@ -1,4 +1,4 @@
-![eyes](https://user-images.githubusercontent.com/61241244/141719723-8886a3f6-1b58-4122-88d2-2c9e5c1cff88.j!pg
+![eyes](https://user-images.githubusercontent.com/61241244/141719723-8886a3f6-1b58-4122-88d2-2c9e5c1cff88.jpg)
 
 # 미소 인공지능 모델 개발 챌린지 - 반려동물 안구 데이터 2021 (MISO AI Challenge-Track 3)
 인공지능 개발에 도전해보세요! <p>
