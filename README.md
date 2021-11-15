@@ -96,7 +96,7 @@
     <td align=center>
       <strong>결과제출</strong><br>
     </td>
-    <td style="text-align:center">2021년 11월 16일 ~ 11월 23일</td>
+    <td style="text-align:center">2021년 11월 24일 18:00까지</td>
  <td align=center> 이메일 제출 (pet@misoinfo.co.kr)
     </td>
    </tr>
